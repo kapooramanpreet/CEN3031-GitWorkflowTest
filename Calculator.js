@@ -4,16 +4,10 @@ function add(){
 	alert("Result= " + (v1+v2).toString());
 }
 
-function subtract(){
-	//Implement this
-	
-	
-}
-
 function multiply(){
 	//Implement this
 	
-	
+	alert()	;
 }
 
 function divide(){
